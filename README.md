@@ -40,9 +40,9 @@
   <h3 align="center">Night Wa Bot</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Night Wa Bot!
     <br />
-    <a>"https://github.com/miztaxx/Night-Wa-Bot-Open-Source.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/miztaxx/Night-Wa-Bot-Open-Source.git"><strong>Explore the docs »"</strong></a>
     <br />
     <br />
     <a href="https://github.com/miztaxx/Night-Wa-Bot-Open-Source.git">View Demo</a>
@@ -146,24 +146,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/miztaxx/Night-Wa-Bot-Open-Source/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
