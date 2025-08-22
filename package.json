@@ -1,0 +1,20 @@
+{
+  "name": "night-wa-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot using Baileys - Open source Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "pino": "^8.1.0"
+  }
+}
